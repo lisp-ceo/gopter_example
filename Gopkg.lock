@@ -1,0 +1,7 @@
+memo = "848b43fb60f9cfc61828eaee7a7b2b5cbff6605a9bafb808818dee119a06888f"
+
+[[projects]]
+  name = "github.com/leanovate/gopter"
+  packages = [".","gen","prop"]
+  revision = "c8df375e1ea5a53748eb0dff007e9cc5e07b7cd3"
+  version = "v0.2.4"
